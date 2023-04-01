@@ -20,3 +20,4 @@ NTUA
       - Wider window means less precise short term energy
       - Gaussian Noise reduces the crossing rate of the silent spots. This is why we cannot distinguish loud(periodical and wide) from silent 
         noises(aperiodical).
+  - **Part 4:** _Multiscale Signal Analysis via Discrete Wavelet Transform for Rhythmic Song Analysis_
