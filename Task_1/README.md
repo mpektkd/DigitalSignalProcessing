@@ -1,5 +1,4 @@
-## DigitalSignalProcessing
-NTUA
+## Task 1
 
   - **Part 1:** _Tracking telephone touch-tones_
     - Describe each digit as the sum of two sines
